@@ -7,13 +7,13 @@ We see three critical differences between programming and software engineering: 
 
 Para um engenheiro de Software vários fatores influenciam na criação de um programa, tal como tempo, escala do programa, etc, sendo seu trabalho manejar os recursos dispostos a si da melhor maneira possível, tendo em conta todos os fatores citados acima. Isso, contudo, nem sempre será possível, devendo ele priorizar um ou outro fator dependendo do cenário em questão, por vezes tomando decisões baseadas em presunções imprecisas. Tais fatores servem para diferi-lo do programador, devendo o engenheiro de software ter uma visão mais completa e heuristica deste processo, buscando a criação do melhor produto possível apesar das adversidades.
 
-Aula 2-23/02/23
+# Aula 2-23/02/23
 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 Existe uma diferença fundamental entre programadores e desenvolvedores de software, de modo que o primeiro foca na criação do código, enquanto o outro fica responsável por sua arquiterura, manutenção e estruturação. Em suma, apesar de suas tarefas interseccionarem em determinados pontos, ambos são fundamentalmente diferentes, tendo um maior responsabilidade na construção do programa que o outro, apesar de ambos serem importantes para o todo.
 
-Aula 3-24/02/23
+# Aula 3-24/02/23
 
 1-O que é Engenharia de Software?
 2-O que são requisitos?
@@ -29,13 +29,13 @@ DESAFIO- Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 2.2- trata-se daqueles requisitos não necessários, mas desejados ao bom funcionamento de um sistema. Foca-se aqui na qualidade do mesmo, estando tais pontos por vezes implicitos na hora da criação de um programa. Ex: Aspectos de segurança do software; Acessibilidade; Usabilidade; etc.
 3[DESAFIO]-performance e tempo de aprendizagem.
 
-Aula 4- 24/03/23
+# Aula 4- 24/03/23
 Indent mode
 Indent size
 Line wrap mode
 
 Enter file contents here
 
-#Diagrama
+# Diagrama
 
 <img src="diagramaUML.png">
