@@ -36,4 +36,6 @@ Line wrap mode
 
 Enter file contents here
 
+#Diagrama
+
 <img src="diagramaUML.png">
